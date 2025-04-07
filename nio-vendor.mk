@@ -155,6 +155,7 @@ PRODUCT_PACKAGES += \
     libmot_flash_aw3643 \
     libmot_lux_standardization \
     libmotcameramodulemonitor \
+    libmpbase \
     libmulticam_optical_zoom_control \
     libmulticam_video_optical_zoom \
     libofflinelog \
@@ -172,66 +173,9 @@ PRODUCT_PACKAGES += \
     libvidhance_stabilizer \
     vendor.egistec.hardware.fingerprint@2.0 \
     vendor.qti.hardware.camera.postproc@1.0-service-impl \
-    libAncHumanSegFigureFusion-jni \
-    libFNVfbEngineHAL_legacy \
-    libNvBeautyEffect \
-    libSNPE \
-    libSuperSensor \
-    libSuperSensorCPU \
-    libSuperSensorProcessor \
-    libSuperSensorProcessorCWrapper \
-    libarcsoft_dualcam_refocus \
-    libarcsoft_hdr_scbokeh_image \
-    libarcsoft_high_dynamic_range \
-    libarcsoft_multiframe_bokeh_image \
-    libarcsoft_scbokeh_Generic \
-    libarcsoft_supernight \
-    libarcsoft_superportrait \
-    libas-super-slow-motion \
-    libbarhopper_v3 \
-    libbg-postproc-jni \
-    libc++ \
-    libc++_shared \
-    libcamerax_extension_jni \
-    libdoc-util \
-    libdynamic_depth \
-    libfn-beauty-vfb-legacy-base \
-    libfoundation \
-    libgg-dynamic_depth \
-    libgg-tensorflow-lite \
-    libgif \
-    libjpeg \
-    liblenovo_panorama \
-    libmcf-base \
-    libmcf-jni \
-    libmcf-qc-fd-offline_local \
-    libmcf-stand-alone-sm \
-    libmeishe-nv-effects-thumbnails \
-    libmmcamera_faceproc2 \
-    libmorpho_cinema_graph \
-    libmorpho_panorama_gp3 \
-    libmorpho_panorama_gp3_core \
-    libmorpho_sensor_fusion \
-    libmot-cinemagraph-engine \
-    libmot-util \
-    libmpbase \
-    libqc-snpe \
-    libsmart_ppt \
-    libtensorflowlite \
-    libtensorflowlite_gpu_delegate \
-    libtiff \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
-    MotCamera3AI \
-    MotCamera3 \
-    com.motorola.motosignature \
     com.android.hotwordenrollment.common.util \
-    com.motorola.camera3.content.ai.xml \
-    com.motorola.camera3.nio.xml \
-    com.motorola.camera3.xml \
-    com.motorola.motosignature.xml \
-    privapp-permissions-com.motorola.camera3.xml \
-    hiddenapi-whitelist-com.motorola.camera3.xml \
     fpc_ident \
     android.hardware.biometrics.fingerprint@2.1-service-ets \
     android.hardware.biometrics.fingerprint@2.1-service-fpc
